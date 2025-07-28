@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhatsApp Timer</string>
+    <string name="accessibility_service_description">Allows the WhatsApp Timer app to automatically hang up WhatsApp voice calls when a timer expires. This service only monitors WhatsApp activities and does not collect personal data.</string>
+    <string name="timer_hint">Enter minutes</string>
+    <string name="start_timer">START TIMER</string>
+    <string name="stop_timer">STOP TIMER</string>
+    <string name="timer_display_default">00:00</string>
+    <string name="status_ready">Ready to start timer</string>
+    <string name="status_running">Timer running...</string>
+    <string name="status_finished">Timer finished! Attempting to hang up WhatsApp call...</string>
+    <string name="status_stopped">Timer stopped</string>
+    <string name="info_text">📱 This app will simulate hanging up a WhatsApp voice call when the timer expires.\n\n⚠️ Note: Full WhatsApp automation requires Accessibility Service permissions.</string>
+    <string name="toast_enter_time">Please enter time in minutes</string>
+    <string name="toast_invalid_number">Please enter a valid positive number</string>
+    <string name="toast_timer_stopped">Timer stopped</string>
+    <string name="toast_simulating_hangup">Simulating WhatsApp call hang-up...</string>
+    <string name="toast_hangup_placeholder">Call hang-up action would be executed here</string>
+    <string name="toast_accessibility_disabled">Note: Accessibility Service not enabled. WhatsApp automation will be limited.</string>
+</resources>
